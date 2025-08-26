@@ -1,0 +1,12 @@
+﻿<p>
+    @server.Name is located in @server.City and is currently @server.IsOnline.
+</p>
+
+<div data-name="@server.Name">
+    @server.City
+</div>
+@code {
+    private Server server = new Server { Name = "Server1", City = "Cape Town" };
+
+  
+}
