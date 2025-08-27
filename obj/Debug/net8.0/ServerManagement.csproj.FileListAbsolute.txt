@@ -13,6 +13,7 @@ C:\Users\kunan\source\repos\BlazorDeepDive\BlazorDeepDive\ServerManagement\obj\D
 C:\Users\kunan\source\repos\BlazorDeepDive\BlazorDeepDive\ServerManagement\obj\Debug\net8.0\ServerManagement.AssemblyInfo.cs
 C:\Users\kunan\source\repos\BlazorDeepDive\BlazorDeepDive\ServerManagement\obj\Debug\net8.0\ServerManagement.csproj.CoreCompileInputs.cache
 C:\Users\kunan\source\repos\BlazorDeepDive\BlazorDeepDive\ServerManagement\obj\Debug\net8.0\ServerManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kunan\source\repos\BlazorDeepDive\BlazorDeepDive\ServerManagement\obj\Debug\net8.0\ServerManagement.sourcelink.json
 C:\Users\kunan\source\repos\BlazorDeepDive\BlazorDeepDive\ServerManagement\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\kunan\source\repos\BlazorDeepDive\BlazorDeepDive\ServerManagement\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\kunan\source\repos\BlazorDeepDive\BlazorDeepDive\ServerManagement\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
