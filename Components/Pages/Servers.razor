@@ -6,9 +6,20 @@
 <br/>
 <br/>
 
-<ServerComponent></ServerComponent>
-
+<ul>
+    @foreach(var server in servers)
+    {
+        <li>
+            @server.Name is located in @server.City and is currently 
+            <span style="color:@(server.IsOnline?"green":"red")">
+                @( server.IsOnline? "online":"offline")
+                </span>.
+        </li>
+    }
+</ul>
 
 @code {
+
+    private List<Server> servers = ServersRepository.GetServersByCity("Cape Town");
 
 }
